@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#6d4c41">
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"/>
+    <LinearLayout
+        android:gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="70">
+    <TableLayout
+        android:shrinkColumns="*"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="12dp"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+        <TableRow
+            android:gravity="center_horizontal"
+            android:layout_height="0dp"
+            android:layout_width="match_parent"
+            android:layout_weight="1">
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_8"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_9"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_10"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_11"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_12"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_13"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_14"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_height="0dp"
+            android:gravity="center_horizontal"
+            android:layout_width="match_parent"
+            android:layout_weight="1">
+
+
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_22"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_23"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_24"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_25"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_26"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_27"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_28"/>
+
+        </TableRow>
+        <TableRow
+            android:layout_height="0dp"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_horizontal">
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_36"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_37"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_38"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_39"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_40"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_41"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_42"/>
+
+        </TableRow>
+        <TableRow
+            android:layout_height="0dp"
+            android:layout_width="match_parent"
+            android:gravity="center_horizontal"
+            android:layout_weight="1">
+
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_43"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_44"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_45"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_46"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_47"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_48"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_49"/>
+
+
+        </TableRow>
+    </TableLayout>
+
+    <TableLayout
+        android:shrinkColumns="*"
+        android:layout_marginTop="12dp"
+        android:layout_marginLeft="8dp"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+        <TableRow
+            android:gravity="center_horizontal"
+            android:layout_height="0dp"
+            android:layout_width="match_parent"
+            android:layout_weight="1">
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_1"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_2"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_3"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_4"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_5"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_6"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_7"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_height="0dp"
+            android:gravity="center_horizontal"
+            android:layout_width="match_parent"
+            android:layout_weight="1">
+
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_15"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_16"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_17"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_18"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_19"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_20"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_21"/>
+
+        </TableRow>
+        <TableRow
+            android:layout_height="0dp"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_horizontal">
+
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_29"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_30"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_31"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_32"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_33"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_34"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_35"/>
+
+        </TableRow>
+        <TableRow
+            android:layout_height="0dp"
+            android:layout_width="match_parent"
+            android:gravity="center_horizontal"
+            android:layout_weight="1">
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_50"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_51"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_52"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_53"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_54"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_55"/>
+
+            <Button
+                style="@style/BtnTheme"
+                android:id="@+id/btn_wine_56"/>
+
+        </TableRow>
+    </TableLayout>
+</LinearLayout>
+    <TextView
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="20"
+        android:paddingTop="12dp"
+    android:id="@+id/tv_desc"
+    android:layout_height="0dp"
+    android:layout_width="wrap_content"
+    android:text="Popis vína"
+    android:textSize="32sp"/>
+</LinearLayout>
